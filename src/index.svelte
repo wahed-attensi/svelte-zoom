@@ -77,8 +77,8 @@
 
   let ratio, img
 
-  let matrix
-  let contain = null
+  export let matrix;
+  let contain = null;
   let willChange = true;
 
   let velocity = new MultiTouchVelocity()
