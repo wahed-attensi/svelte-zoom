@@ -77,7 +77,7 @@
 
   let ratio, img
 
-  export let matrix;
+  let matrix;
   let contain = null;
   let willChange = true;
 
