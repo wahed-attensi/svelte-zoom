@@ -89,7 +89,7 @@
     y: 0,
   }
 
-  let scale = {
+  export let scale = {
     scaling: false,
     x1: 0,
     x2: 0,
